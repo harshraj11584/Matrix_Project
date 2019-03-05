@@ -1,0 +1,6 @@
+Equation of Circle 1= ||x||^2 - 2 [[1 0]] x + 0 = 0
+Centre 1 =  [[1 0]]  , radius= 1.0
+Equation of Line = [[1 1]] x = 3
+Equation of Circle 2= ||x||^2 - 2 [[3. 2.]] x + 11.999999999999996 = 0
+Centre 2 =  [[3. 2.]]  , radius= 1.0
+Distances AC1= 1.4142135623730947 AC2= 1.4142135623730947
